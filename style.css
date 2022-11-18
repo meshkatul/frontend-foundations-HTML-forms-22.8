@@ -1,0 +1,20 @@
+
+body {
+    padding: 15px;
+}
+
+#name {
+   border-style: solid;
+   border-width: 0.5px;
+}
+
+#email {
+   border-style: solid;
+   border-width: 0.5px;   
+ }
+
+ #message {
+    border-color: grey;   
+ }
+
+ 
